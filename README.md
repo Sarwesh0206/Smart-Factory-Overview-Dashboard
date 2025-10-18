@@ -1,7 +1,7 @@
 🚀 Smart Factory Data Analysis Dashboard:
 By an Electronics and Instrumentation Engineering Student
 
-Overview
+Overview:
 This repository showcases my first machine-based data analysis dashboard built with Power BI, where I bridge engineering concepts and data analytics to deliver actionable insights for industrial systems. The dashboard enables users to monitor and analyze key machine metrics, supporting smarter and more efficient manufacturing processes.
 
 Dashboard Features:
